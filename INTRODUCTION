@@ -1,4 +1,4 @@
-AI-Powered Automated Email System
+# AI-Powered Automated Email System
 This project is an AI-powered email automation tool that leverages advanced natural language generation and a user-friendly interface to streamline email composition and delivery. It combines the power of GPT-Neo for generating professional email content and Gradio for creating an interactive interface.
 
 Key Features:
