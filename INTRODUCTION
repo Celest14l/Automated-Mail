@@ -1,0 +1,16 @@
+AI-Powered Automated Email System
+This project is an AI-powered email automation tool that leverages advanced natural language generation and a user-friendly interface to streamline email composition and delivery. It combines the power of GPT-Neo for generating professional email content and Gradio for creating an interactive interface.
+
+Key Features:
+AI-Generated Email Content: Automatically generates professional email content based on user-provided prompts using the GPT-Neo language model.
+Secure Email Delivery: Sends emails securely using SMTP with credentials managed via environment variables.
+Interactive Interface: A clean and intuitive Gradio-based interface for composing, previewing, and sending emails effortlessly.
+Tech Stack:
+Backend: Python, GPT-Neo from Hugging Face's Transformers library.
+Frontend: Gradio for the user interface.
+Email Service: SMTP with Gmail for secure email delivery.
+How It Works:
+Enter a subject prompt to describe the email topic.
+Provide the recipient's email address.
+The system generates email content and displays it for review.
+Click "Send" to deliver the email directly.
